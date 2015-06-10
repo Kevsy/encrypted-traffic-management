@@ -4,8 +4,8 @@
 
 Network Working Group                                           K. Smith
 Internet-Draft                                            Vodafone Group
-Intended status: Informational                             June 05, 2015
-Expires: December 7, 2015
+Intended status: Informational                             June 10, 2015
+Expires: December 12, 2015
 
 
                 Network management of encrypted traffic

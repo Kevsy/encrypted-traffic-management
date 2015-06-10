@@ -9,7 +9,7 @@
 <?rfc sortrefs="yes"?>
 <?rfc symrefs="yes"?>
 
-<rfc ipr="trust200902" docName="draft-smith-encrypted-traffic-management-01" category="info">
+<rfc ipr="trust200902" docName="draft-smith-encrypted-traffic-management-02" category="info">
 
   <front>
     <title abbrev="encrypted-traffic-management">Network management of encrypted traffic</title>
@@ -21,7 +21,7 @@
       </address>
     </author>
 
-    <date year="2015" month="June" day="05"/>
+    <date year="2015" month="June" day="10"/>
 
     <area>Security</area>
     
