@@ -9,7 +9,7 @@
 <?rfc sortrefs="yes"?>
 <?rfc symrefs="yes"?>
 
-<rfc ipr="trust200902" docName="draft-smith-encrypted-traffic-management-02" category="info">
+<rfc ipr="trust200902" docName="draft-smith-encrypted-traffic-management-03" category="info">
 
   <front>
     <title abbrev="encrypted-traffic-management">Network management of encrypted traffic</title>
@@ -21,7 +21,7 @@
       </address>
     </author>
 
-    <date year="2015" month="June" day="10"/>
+    <date year="2015" month="September" day="2"/>
 
     <area>Security</area>
     
@@ -231,12 +231,13 @@ applied at the network edge servers only.</t>
 
 <section anchor="spud" title="Substrate Protocol for User Datagrams (SPUD)">
 
-<t>SPUD <xref target="SPUD"/> allows network devices on the path between endpoints to participate explicitly in a ‘tube’ of grouped UDP packets. The network involvement is outside of the end-to-end context, to minimise any privacy or security breach. The initial prototype is based on UDP packets but will investigate the support of additional transport layers (such as TCP).</t>
+<t>SPUD <xref target="SPUD"/> is a prototype to research how network devices on the path between endpoints can share information to improve a flow. The network involvement is outside of the end-to-end context, to minimise any privacy or security breach. The initial prototype involves grouping UDP packets into an explicit 'tube', however support of additional transport layers (such as TCP) will also be investigated.</t>
 
 </section>
 <section anchor="mtg" title="Mobile throughput Guidance">
 
-<t>Mobile Throughput Guidance In-band Signalling <xref target="MTG"/> allows the network to inform the server endpoint as to what bandwidth the TCP connection can reasonably expect. This allows the server to adapt their throughput pacing based on dynamic network conditions, which can assist mechanisms such as Adaptive Bitrate Streaming and TCP congestion control.</t>
+<t>Mobile Throughput Guidance In-band Signalling <xref target="MTG"/> is a draft proposal to allows
+ the network to inform the server endpoint as to what bandwidth the TCP connection can reasonably expect. This allows the server to adapt their throughput pacing based on dynamic network conditions, which can assist mechanisms such as Adaptive Bitrate Streaming and TCP congestion control.</t>
 
 </section>
 
