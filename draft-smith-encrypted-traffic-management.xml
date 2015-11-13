@@ -58,7 +58,7 @@ awareness, uptake by popular services, and advocacy from the <xref target="IAB"/
 <t>It then describes the technical details of existing options to fully or partially persist these functions
 under encryption. The guidance includes existing techniques as well as ongoing IETF work in this area.‘Encryption’ in this document typically refers to HTTP over TLS <xref target="RFC2818"/>; other forms of encryption are noted where applicable.</t>
 
-<t>Finally, a summary is provided of ongoing IETF work which is investigating how middleboxes along the network path can improve encrypted traffic delivery - again without breaching user privacy or security.</t>
+<t>Finally, a summary is provided of ongoing IETF work which is investigating how network operators, origin servers and clients may co-operate in efficient traffic delivery without the need for pervasive network monitoring.</t>
 
 <t>The legal, political and commercial aspects of network management are recgnised but not covered in this technical document.</t>
 

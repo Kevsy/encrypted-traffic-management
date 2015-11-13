@@ -126,9 +126,9 @@ Internet-Draft        encrypted-traffic-management         November 2015
    [RFC2818]; other forms of encryption are noted where applicable.
 
    Finally, a summary is provided of ongoing IETF work which is
-   investigating how middleboxes along the network path can improve
-   encrypted traffic delivery - again without breaching user privacy or
-   security.
+   investigating how network operators, origin servers and clients may
+   co-operate in efficient traffic delivery without the need for
+   pervasive network monitoring.
 
    The legal, political and commercial aspects of network management are
    recgnised but not covered in this technical document.
