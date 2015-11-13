@@ -4,8 +4,8 @@
 
 Network Working Group                                           K. Smith
 Internet-Draft                                            Vodafone Group
-Intended status: Informational                          October 23, 2015
-Expires: April 25, 2016
+Intended status: Informational                         November 13, 2015
+Expires: May 16, 2016
 
 
                 Network management of encrypted traffic
@@ -32,7 +32,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on April 25, 2016.
+   This Internet-Draft will expire on May 16, 2016.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Smith                    Expires April 25, 2016                 [Page 1]
+Smith                     Expires May 16, 2016                  [Page 1]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
 Table of Contents
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Smith                    Expires April 25, 2016                 [Page 2]
+Smith                     Expires May 16, 2016                  [Page 2]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
 1.1.  Document structure
@@ -165,9 +165,9 @@ Internet-Draft        encrypted-traffic-management          October 2015
 
 
 
-Smith                    Expires April 25, 2016                 [Page 3]
+Smith                     Expires May 16, 2016                  [Page 3]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
    its content as high priority).  The purpose is to help manage traffic
@@ -221,9 +221,9 @@ Internet-Draft        encrypted-traffic-management          October 2015
 
 
 
-Smith                    Expires April 25, 2016                 [Page 4]
+Smith                     Expires May 16, 2016                  [Page 4]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
    MPLS labels ,which entails a significant effort to setup and
@@ -277,9 +277,9 @@ Internet-Draft        encrypted-traffic-management          October 2015
 
 
 
-Smith                    Expires April 25, 2016                 [Page 5]
+Smith                     Expires May 16, 2016                  [Page 5]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
 3.1.8.  DISCUSS
@@ -333,9 +333,9 @@ Internet-Draft        encrypted-traffic-management          October 2015
 
 
 
-Smith                    Expires April 25, 2016                 [Page 6]
+Smith                     Expires May 16, 2016                  [Page 6]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
 4.  Acknowledgements
@@ -389,9 +389,9 @@ Internet-Draft        encrypted-traffic-management          October 2015
 
 
 
-Smith                    Expires April 25, 2016                 [Page 7]
+Smith                     Expires May 16, 2016                  [Page 7]
 
-Internet-Draft        encrypted-traffic-management          October 2015
+Internet-Draft        encrypted-traffic-management         November 2015
 
 
 7.2.  Informative References
@@ -445,4 +445,4 @@ Author's Address
 
 
 
-Smith                    Expires April 25, 2016                 [Page 8]
+Smith                     Expires May 16, 2016                  [Page 8]
